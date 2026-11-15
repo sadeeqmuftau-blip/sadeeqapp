@@ -1,0 +1,2 @@
+rootProject.name = "CryptoSignalRadar"
+include ':app'

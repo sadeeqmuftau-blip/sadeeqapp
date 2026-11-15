@@ -1,0 +1,10 @@
+{
+  "name": "Remix Crypto Signal Volume Trader - Hidden Gems \u0026 Momentum Radar",
+  "description": "Real-time crypto volume trader radar alerting users to hidden gems and high-momentum linear futures breakout opportunities with advanced technical analysis, sentiment tracking, and low-latency Bybit streaming.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
